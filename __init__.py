@@ -1,1 +1,1 @@
-"""Start new sensor integration."""
+"""Start my integration."""
