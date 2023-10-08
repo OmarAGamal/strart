@@ -1,0 +1,8 @@
+{
+  "domain": "startnew",
+  "name": "Start New",
+  "codeowners": [],
+  "dependencies": [],
+  "iot_class": "assumed_state",
+  "requirements": []
+}
